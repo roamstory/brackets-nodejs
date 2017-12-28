@@ -1,0 +1,4 @@
+.gitignore
+.idea
+brackets-nodejs.iml
+node_modules
