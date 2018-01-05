@@ -1,4 +1,8 @@
-.gitignore
-.idea
-brackets-nodejs.iml
-node_modules
+/node_modules
+bundle.js
+npm-debug.log
+.DS_Store
+
+# IntelliJ
+*.iml
+/.idea
